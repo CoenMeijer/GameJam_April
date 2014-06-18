@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: e0b2b797b95490b4e83cea0766098738
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: ExplodeSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_15
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 187
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 118
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 118
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 118
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_20
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 118
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 118
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 118
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ExplodeSheet_23
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 118
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

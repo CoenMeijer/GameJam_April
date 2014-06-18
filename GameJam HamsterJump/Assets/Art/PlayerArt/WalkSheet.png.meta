@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 73c615d7d8d3eb24283b3d4c6193e81e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: WalkSheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 195
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 195
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 195
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 195
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 195
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 195
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 195
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 195
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 195
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_9
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 195
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 195
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_11
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 195
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_12
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 195
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 195
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_14
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 195
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_15
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 195
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 126
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 126
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 126
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 126
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 126
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 126
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_22
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 126
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: WalkSheet_23
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 126
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
